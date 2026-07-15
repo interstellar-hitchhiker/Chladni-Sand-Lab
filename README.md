@@ -1,0 +1,2 @@
+# Chladni-Sand-Lab
+Thousands of virtual grains migrate toward the nodal lines of a vibrating square plate. Choose a classic mode, generate a pure tone, or let your voice reshape the sand.  Install app How it works
